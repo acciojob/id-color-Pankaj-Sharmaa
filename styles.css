@@ -5,7 +5,8 @@
         }
         #red {
             background: red;
-            border: 1px black;
+            border: 1px;
+			bordercolor:black;
         }
         #green {
             background: green;
